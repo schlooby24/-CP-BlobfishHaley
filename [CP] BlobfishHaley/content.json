@@ -1,0 +1,11 @@
+{
+    "Format": "1.26.0",
+    "Changes": [
+        {
+            "LogName":"Loaded assets/haleyblobfish.png over Characters/Haley.",
+            "Action": "Load",
+            "Target": "Characters/Haley",
+            "FromFile": "assets/haleyblobfish.png"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Blobfish Haley",
+    "Author": "schlooby24",
+    "Version": "0.1.0",
+    "Description": "Gives Haley a makeover fit for her personality.",
+    "UniqueID": "schlooby24.BlobfishHaley",
+    "UpdateKeys": [ "GitHub:schlooby24/-CP-BlobfishHaley" ], 
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
